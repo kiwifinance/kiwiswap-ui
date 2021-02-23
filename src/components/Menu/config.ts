@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://kiwiswap.finance/farms',
+    href: 'https://farm.kiwiswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://kiwiswap.finance/pools',
+    href: 'https://farm.kiwiswap.finance/pools',
   },
   {
     label: 'Info',
