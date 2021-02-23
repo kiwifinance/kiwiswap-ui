@@ -1,7 +1,7 @@
 {
   "name": "@kiwifinance/interface",
   "description": "KiwiFinance Interface",
-  "homepage": ".",
+  "homepage": "https://kiwiswap.finance",
   "private": true,
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
