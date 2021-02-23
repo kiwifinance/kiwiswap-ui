@@ -10,7 +10,7 @@ type ApiResponse = {
 /**
  * Due to Cors the api was forked and a proxy was created
  */
-const api = 'https://data.cheeseswap.app/price'
+const api = 'https://api.pancakeswap.com/api/v1/price'
 
 const useGetPriceData = () => {
   const [data, setData] = useState<ApiResponse | null>(null)
